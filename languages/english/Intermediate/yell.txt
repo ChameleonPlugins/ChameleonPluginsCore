@@ -1,0 +1,16 @@
+//\\ //// code completion entries (1+ lines):
+yell X:SOMETHING and go to the next line
+//\\ //// ==> completion hint (1 line):
+say something 3 times
+//\\ //// Replacment text (1+ lines):
+say X:SOMETHING and go to the next line
+say X:SOMETHING and go to the next line
+say X:SOMETHING and go to the next line
+//\\ //// Defaults for X if needed (e.g. X1=3) (1+ lines):
+
+//\\ //// Help/documentation (1+ lines):
+ 
+//\\ //// Tool tip (1 line):
+Change the text to a variable or "literal string" (in quotes)
+//\\ //// Template path (e.g. core/sayHi.txt) (1 line):
+yell.txt
